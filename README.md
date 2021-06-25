@@ -1,6 +1,6 @@
 # ovi-mini-python
 
-1.Crear una carpeta donde esté el pdf a separar
+1.Crear una carpeta donde esté el pdf a separar\\
 2.En esa carpeta, se alojarán los pdfs resultantes
 3.Abrir el código en un IDE
 4.En la línea 23, pegar como argumento la dirección de la carpeta
