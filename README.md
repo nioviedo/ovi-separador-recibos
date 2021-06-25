@@ -1,4 +1,6 @@
-# ovi-mini-python
+# Separador de recibos
+
+Pequeño archivo pensado para separar un PDF con recibos de sueldo, a dos páginas por empleado.
 
 1. Crear una carpeta donde esté el pdf a separar
 2. En esa carpeta, se alojarán los pdfs resultantes
