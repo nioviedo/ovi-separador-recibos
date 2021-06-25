@@ -1,2 +1,2 @@
 # ovi-mini-python
-Mini Python codes
+Small pieces of Python code that execute small features.
